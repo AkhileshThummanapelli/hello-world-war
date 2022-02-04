@@ -3,6 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
+	<dev>
 	<h1>Hello World!</h1>
 	<h2>Hii Akhilesh Chari</h2>
 	<h2>Hello Ak</h2>
@@ -11,5 +12,5 @@
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
-		<%= request.getRemoteAddr()  %></p>
+		<%= request.getRemoteAddr()  %></p></dev>
 </body>
