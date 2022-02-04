@@ -1,12 +1,12 @@
 <html>
 <head>
-<title>Hello World!</title>
+<title>Hello Friends!</title>
 </head>
-<body>
+<body style="background-color:powderblue;">
 	<center>
-	<h1>Hello World!</h1>
-	<h2>Hii Akhilesh Chari</h2>
-	<h2>Hello Ak</h2>
+	<h1>Hii Friends</h1>
+	<h2>I am Akhilesh</h2>
+	<h2></h2>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
